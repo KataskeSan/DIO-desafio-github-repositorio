@@ -1,0 +1,10 @@
+# São somente minhas anotações de links que declarei como úteis:
+
+### Link download do Git - console bash para otmizar o uso do Git.
+[Git](https://git-scm.com/downloads)
+
+### Link do GitHub - login de seu perfil para commit direto de seus repositórios.
+[GitHub](https://github.com/)
+
+### Link de icones - icones para adicionar aos textos e deixalos mais aceitaveis
+[Google Fonts](https://fonts.google.com/icons)
